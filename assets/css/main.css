@@ -3271,6 +3271,7 @@ input, select, textarea {
 		top: 0;
 		visibility: hidden;
 		width: 100%;
+
 	}
 
 		#menu .inner {
@@ -3291,6 +3292,8 @@ input, select, textarea {
 			opacity: 0;
 			position: relative;
 			width: 18em;
+                        z-index: 2;
+
 		}
 
 		#menu h2 {
